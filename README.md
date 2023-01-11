@@ -16,7 +16,7 @@ There are a total of 4 scenes. Use the NUMPAD to switch between scenes.
 #### `E`: Toggle Bezier Curve / B-spline Curve
 #### `R`: Reset control points to default example
 #### `C`: Clear all control points
-######Mouse Input
+###### Mouse Input
 - Click and drag on points to edit points.
 - Click anywhere to create a point.
 - Select point by clicking on a point, then right click anywhere to delete the selected point.
