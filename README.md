@@ -36,10 +36,10 @@ There are a total of 4 scenes. Use the NUMPAD to switch between scenes.
 #### `X`: Reset Camera view
 
 ---
-####For all 3D views:
-######Mouse Input
+#### For all 3D views:
+###### Mouse Input
 - Click and drag anywhere to rotate the camera in the direction of the drag.
-######Moving the camera
+###### Moving the camera
 - Use `W`,`A`,`S`,`D` to move forward, left, backward, and right in the direction of where the camera is facing.
 ---
 ## Compiler and Platform
